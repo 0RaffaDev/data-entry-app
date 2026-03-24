@@ -90,10 +90,9 @@ python main.py
 
 ## 👨‍💻 Autor
 
-Desarrollado por **[Tu Nombre]**
+Desarrollado por **[GONZALO RAFANIELLO]**
 
-*(Podés agregar tu GitHub o LinkedIn acá)*
-
+GRAFFADEV
 ---
 
 ## ⭐ Notas
