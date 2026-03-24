@@ -8,6 +8,9 @@ Aplicación de escritorio desarrollada en Python que permite ingresar datos de u
 ## 🚀 Demo
 
 > Interfaz simple e intuitiva para la carga de datos.
+> <p align="center">
+  <img src="screenshot.png" width="500"/>
+</p>
 
 ---
 
